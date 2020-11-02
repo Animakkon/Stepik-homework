@@ -16,3 +16,7 @@ h1{
 th, tr, td{
     border: solid 1px black;
 }
+
+figcaption, caption{
+    font-style: italic;
+}
