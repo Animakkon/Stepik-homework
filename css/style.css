@@ -17,6 +17,11 @@ table, th, tr, td{
     border: solid 1px black;
 }
 
-figcaption, caption{
+figcaption,
+p.caption{
     font-style: italic;
+}
+
+figure{
+    float: right;
 }
